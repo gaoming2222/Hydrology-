@@ -3,6 +3,9 @@ using System.Windows.Forms;
 using Hydrology.DataMgr;
 using Hydrology.Entity;
 
+/// <summary>
+/// gg
+/// </summary>
 namespace Hydrology.Forms
 {
     public partial class CLoginForm : Form
